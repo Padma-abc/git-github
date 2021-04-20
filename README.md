@@ -1,2 +1,3 @@
 # git-github
-This is for tutorial purpose only
+Adding phone number1
+Adding home phone number2
